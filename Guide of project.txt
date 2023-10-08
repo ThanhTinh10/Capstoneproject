@@ -1,0 +1,11 @@
+- Detect and classify the quality of agricultural products
+- Electrical circuit design
+- 3d solidwork model design
+- Algorithm design
+- Training data design
+
+Software used:
+Solidwork, autocad, pycharm, ide arduino.
+
+Peripheral devices
+Stepmotor, micro servo, sensor, camera
