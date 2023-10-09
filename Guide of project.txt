@@ -1,4 +1,4 @@
-- Detect and classify the quality of agricultural products
+- Detect and classify the quality of agricultural products (quality lemons)
 - Electrical circuit design
 - 3d solidwork model design
 - Algorithm design
